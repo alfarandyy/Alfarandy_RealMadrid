@@ -1,0 +1,94 @@
+{
+    "result": [
+    {
+      "no": "10",
+      "name": "Luka Modric",
+      "birth_date": "1985-11-09",
+      "Position": "Midfielder",
+      "International": "Croatia",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/cHN0QYZh/Luka-Modric.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Toni Kroos",
+      "birth_date": "1990-11-04",
+      "Position": "Midfielder",
+      "International": "Germany",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/bJTckBmY/Toni-Kroos.jpg"
+    },
+    {
+      "no": "4",
+      "name": "David Alaba",
+      "birth_date": "1992-06-24",
+      "Position": "Defender",
+      "International": "Austria",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/zv8D1hcv/David-Alaba.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Nacho Fernández",
+      "birth_date": "1990-01-18",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/wMqzrp1s/Nacho-Fernandez.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Daniel Carvajal",
+      "birth_date": "1992-01-11",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/rp7z7KTR/Daniel-Carvajal.jpg"
+    },
+    {
+      "no": "22",
+      "name": "Antonio Rudiger",
+      "birth_date": "1993-03-03",
+      "Position": "Defender",
+      "International": "Germany",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/4xTPRxJM/Antonio-Rudiger.jpg"
+    },
+    {
+      "no": "25",
+      "name": "Kepa Arrizabalaga",
+      "birth_date": "1994-10-03",
+      "Position": "Goal Keeper",
+      "International": "Spain",
+      "Team": "Real Madrid",
+      "Poster": "https://i.postimg.cc/5N997wzk/Kepa-Arrizabalaga.jpg"
+    },
+    {
+        "no": "1",
+        "name": "Thibaut Courtois",
+        "birth_date": "1992-05-11",
+        "Position": "Goal Keeper",
+        "International": "Belgium",
+        "Team": "Real Madrid",
+        "Poster": "https://i.postimg.cc/Vkx88MSw/Thibaut-Courtois.jpg"
+    },
+    {
+        "no": "13",
+        "name": "Andriy Lunin",
+        "birth_date": "1999-02-11",
+        "Position": "Goal Keeper",
+        "International": "Ukraine",
+        "Team": "Real Madrid",
+        "Poster": "https://i.postimg.cc/L6PqB4By/Andriy-Lunin.jpg"
+    },
+    {
+        "no": "17",
+        "name": "Lucas Vázquez",
+        "birth_date": "1991-07-01",
+        "Position": "Forward",
+        "International": "Spain",
+        "Team": "Real Madrid",
+        "Poster": "https://i.postimg.cc/rw38w3Pv/Lucas-Vazquezjpg.jpg"
+    }
+   ]
+  }
